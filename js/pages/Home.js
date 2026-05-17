@@ -31,7 +31,7 @@ export default {
             <h1 v-html="getRandomText()"></h1>
             <hr class="divider">
             <p>
-            This list keeps track of the hardest 2-player levels in Geometry Dash that have been done&nbsp;<strong>solo</strong>. Levels must have enough of its length&nbsp;<i>or</i> difficulty come from its 2P sections to place on the list. Keep in mind the list is an approximation based on players' opinions and is <strong>not objective</strong>.
+            This list keeps track of the hardest memory levels in Geometry Dash that have been done. Levels must have enough of its length&nbsp;<i>or</i> difficulty come from its memory sections to place on the list. Keep in mind the list is an approximation based on players' opinions and is <strong>not objective</strong>.
             </p>
             </div>
             <div class="changelog-container">
