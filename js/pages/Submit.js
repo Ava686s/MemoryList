@@ -21,15 +21,9 @@ export default {
             <h1>Submission Requirements</h1>
             <div class="divider"></div>
             <p>
-                Completion must be solo - all records must be achieved without another player.
-                <br><br>
                 Achieved the record without using hacks (however, some hacks are allowed, such as CBF).
                 <br><br>
                 Switching inputs or keybinds mid-attempt is allowed.
-                <br><br>
-                Do not bind one key to both inputs (meaning you can't have one key that jumps with player 1 and player 2. Also do not have a custom keycap that covers two keys)
-                <br><br>
-                Do not use more than 4 keys bound to inputs in a completion. For example, you can have two keys bound to player 1 and two keys bound to player 2.
                 <br><br>
                 Do not use major secret routes or bug routes. If you are unsure if a skip is invalid, contact an admin.
                 <br><br>
@@ -45,7 +39,7 @@ export default {
             </p>    
             <div class="wrapper">
             <button class="btn">
-            <a class="type-label-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSd40KOu8uAGf5aW-CObtjHsg2Pe33TefGPd__ZnJQkXCrBeaA/viewform" target="_blank">Submit a Record</a>
+            <a class="type-label-lg" href="https://forms.gle/F49dZAavVffX7Q6K6" target="_blank">Submit a Record</a>
             </button>
             </div>
         </div>
