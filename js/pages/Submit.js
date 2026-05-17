@@ -34,8 +34,6 @@ export default {
                 The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
                 <br><br>
                 The recording must also show the level complete screen, or the completion will be invalidated.
-                <br><br>
-                Once a level falls onto the Legacy List (#76 and below), we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level.
             </p>    
             <div class="wrapper">
             <button class="btn">
