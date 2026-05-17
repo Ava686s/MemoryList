@@ -1,0 +1,45 @@
+{
+    "id": "40118745",
+    "name": "BiPolar",
+    "author": "APXCRYPHA",
+    "verifier": "Vin24Sev",
+    "desc": "Please watch verification video for this on my Youtube, it will explain everything. =)",
+    "percentToQualify": "100",
+    "handcam": 2,
+    "hacked": false,
+    "unrated": true,
+    "verificationVid": "https://youtu.be/cIEP6bI3gFI",
+    "password": "",
+    "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/qeKpRY4u2nE?t=304",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/bVMiRl9xmsA",
+            "user": "Cr1msoN"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/wfkFV-1Ysxs",
+            "user": "Neuronfish"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/kTfykM6AEX4",
+            "user": "aonsey"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/XE-b_OJc67o",
+            "user": "Nsaynchkn"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/sCW_zNHMJGQ",
+            "user": "conski"
+        }
+    ]
+}
