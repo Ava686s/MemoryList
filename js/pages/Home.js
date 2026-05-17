@@ -100,7 +100,7 @@ export default {
         itemsPerPage: 8,
         getRandomText() {
             const randomNumber = Math.floor(Math.random() * 200) + 1;
-            return randomNumber === 1 ? 'Welcome to <span class="gradient-text">your mind</span>...' : 'Welcome to the <span class="gradient-text">2P List</span>!';
+            return randomNumber === 1 ? 'Welcome to <span class="gradient-text">your mind</span>...' : 'Welcome to the <span class="gradient-text">Memory List</span>!';
         },
         inputPage: '', // Initialize to an empty string
     }),
